@@ -23,7 +23,7 @@ This is a simple task management website that allows users to add, delete, and u
 
 
 ## Setup
-1.create the repository
+1.Clone the repository
 2. Create a new Firebase project
 3. Enable Firestore in the Firebase project
 4. Add the Firebase configuration to the `app.js` file
